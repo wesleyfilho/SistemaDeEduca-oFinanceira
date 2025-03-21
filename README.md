@@ -26,13 +26,13 @@
        -  Entradas (id, user_id, valor, tipo, data)
        -  Saidas (id, user_id, valor, tipo, data)
      
- - # 4. Registro de Movimentações
+ - # C. Registro de Movimentações
   
- - # 5. Relatórios e gráficos
+ - # D. Relatórios e gráficos
   
- - # 6. Dicas financeiras
+ - # E. Dicas financeiras
   
- - # 7. Simulador de metas
+ - # F. Simulador de metas
 
 # 4. Orientação para Relatóro Final
   
