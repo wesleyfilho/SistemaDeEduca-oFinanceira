@@ -17,8 +17,8 @@
 
 3. Funcionalidades por Etapas
   1. Estrutura básica
-  2. Tela de Login e cadastro de usuários
-  3. Menu principal com opções:entradas, Saídas, Relatórios, simulador de Metas, Dicas.
+    # 1. Tela de Login e cadastro de usuários
+    # 2. Menu principal com opções:entradas, Saídas, Relatórios, simulador de Metas, Dicas.
 
   2. Banco de dados
      Tabelas:
