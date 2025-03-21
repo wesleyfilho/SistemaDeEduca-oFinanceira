@@ -1,9 +1,9 @@
 # SistemaDeEduca-oFinanceira
 
-1. Planejamento Geral
-   Objetivo principal: Criar uma ferramenta de apoio à educação financeira para a comunidade
-   Publico-alvo: jovens, adultos e familias que queiram aprender a organizar melhor suas finanças.
-   Entrega: Aplicativo completo em python com banco de dados, interface e funcionalidades.
+# 1. Planejamento Geral
+  - Objetivo principal: Criar uma ferramenta de apoio à educação financeira para a comunidade
+  - Publico-alvo: jovens, adultos e familias que queiram aprender a organizar melhor suas finanças.
+  - Entrega: Aplicativo completo em python com banco de dados, interface e funcionalidades.
 
 2. Estrutura do projeto
    educação_financeira
