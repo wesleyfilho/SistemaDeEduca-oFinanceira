@@ -16,23 +16,23 @@
   - |--relatorios/            # Exportações de relatorios (opcionais)
 
 # 3. Funcionalidades por Etapas
- - 1. Estrutura básica
-    - 1. Tela de Login e cadastro de usuários
-    - 2. Menu principal com opções:entradas, Saídas, Relatórios, simulador de Metas, Dicas.
+   - 1. Estrutura básica
+      -  Tela de Login e cadastro de usuários
+      -  Menu principal com opções:entradas, Saídas, Relatórios, simulador de Metas, Dicas.
 
-- 2. Banco de dados
-     Tabelas:
-       Usuarios (id, nome, email, senha)
-       Entradas (id, user_id, valor, tipo, data)
-       Saidas (id, user_id, valor, tipo, data)
+   - 2. Banco de dados
+      - Tabelas:
+       -  Usuarios (id, nome, email, senha)
+       -  Entradas (id, user_id, valor, tipo, data)
+       -  Saidas (id, user_id, valor, tipo, data)
      
-  4. Registro de Movimentações
+ # 4. Registro de Movimentações
   
-  5. Relatórios e gráficos
+ # 5. Relatórios e gráficos
   
-  6. Dicas financeiras
+ # 6. Dicas financeiras
   
-  7. Simulador de metas
+ # 7. Simulador de metas
 
 # 4. Orientação para Relatóro Final
   
