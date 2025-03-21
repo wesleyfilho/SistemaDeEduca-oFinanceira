@@ -27,12 +27,21 @@
        -  Saidas (id, user_id, valor, tipo, data)
      
  - # C. Registro de Movimentações
-  
+    - Tela para registrar entradas financeiras (ex: salário, bico, etc.).
+    - Tela de adicionar saída (ex: aluguel, comida).
+    
  - # D. Relatórios e gráficos
+     - Relatório mensal simples (total recebido, total gasto, saldo).
+     - Gráfico de barras (Matplotlib) para mostrar os dados.
   
  - # E. Dicas financeiras
-  
+   - Baseado no saldo, mostrar mensagens como
+       - “Você está gastando mais do que ganha. Cuidado!”
+       - “Boa! Seu saldo foi positivo este mês.”
+    
  - # F. Simulador de metas
+   - Campo: meta (ex: R$ 1000), meses (ex: 6)
+   - Calcular: quanto guardar por mês (meta / meses)
 
 # 4. Orientação para Relatóro Final
   
