@@ -6,7 +6,7 @@
   - Entrega: Aplicativo completo em python com banco de dados, interface e funcionalidades.
 
 # 2. Estrutura do projeto
-  -educação_financeira
+  - educação_financeira
   - |
   - |--main.py                # Arquivo principal  da aplicação
   - |--banco.py               # Conexão e manipulacão do banco de dados SQLite
