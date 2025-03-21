@@ -1,4 +1,4 @@
-# SistemaDeEduca-oFinanceira
+# Sistema_De_Educação_Financeira
 
 # 1. Planejamento Geral
   - Objetivo principal: Criar uma ferramenta de apoio à educação financeira para a comunidade
