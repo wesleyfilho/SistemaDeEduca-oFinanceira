@@ -16,11 +16,11 @@
   - |--relatorios/            # Exportações de relatorios (opcionais)
 
 # 3. Funcionalidades por Etapas
-   # 1. Estrutura básica
+   # A. Estrutura básica
       -  Tela de Login e cadastro de usuários
       -  Menu principal com opções:entradas, Saídas, Relatórios, simulador de Metas, Dicas.
 
-   # 2. Banco de dados
+   # B. Banco de dados
       - Tabelas:
        -  Usuarios (id, nome, email, senha)
        -  Entradas (id, user_id, valor, tipo, data)
